@@ -1,0 +1,18 @@
+# Site settings
+name: 葛进进
+location: 贵阳
+company: 联创智能科技有限公司
+position: Java开发工程师
+phone: 16643531544
+qq: 879056461
+email: www.403367632@qq.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
